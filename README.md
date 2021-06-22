@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @andre-hexagon
+- 👀 I’m interested in Data Science Projects
+- 🌱 I’m currently learning about Computer Vision, and Deep Learning Models
+- 💞️ I’m looking to collaborate on projects related to the health industry.
+- 📫 You can reach me on andre@hexagondata.io
